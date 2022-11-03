@@ -1,0 +1,7 @@
+Hello, 
+
+to see that the bug disapears in Release,
+
+comment the content of the following file :
+
+MauiApp2\Platforms\Android\MsalActivity.cs
